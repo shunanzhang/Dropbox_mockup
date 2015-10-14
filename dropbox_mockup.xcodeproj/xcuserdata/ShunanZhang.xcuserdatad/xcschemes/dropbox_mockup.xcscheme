@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F9BB611A1BC8FB1E000D3943"
+               BuildableName = "dropbox_mockup.app"
+               BlueprintName = "dropbox_mockup"
+               ReferencedContainer = "container:dropbox_mockup.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F9BB612E1BC8FB1E000D3943"
+               BuildableName = "dropbox_mockupTests.xctest"
+               BlueprintName = "dropbox_mockupTests"
+               ReferencedContainer = "container:dropbox_mockup.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F9BB61391BC8FB1E000D3943"
+               BuildableName = "dropbox_mockupUITests.xctest"
+               BlueprintName = "dropbox_mockupUITests"
+               ReferencedContainer = "container:dropbox_mockup.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F9BB611A1BC8FB1E000D3943"
+            BuildableName = "dropbox_mockup.app"
+            BlueprintName = "dropbox_mockup"
+            ReferencedContainer = "container:dropbox_mockup.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F9BB611A1BC8FB1E000D3943"
+            BuildableName = "dropbox_mockup.app"
+            BlueprintName = "dropbox_mockup"
+            ReferencedContainer = "container:dropbox_mockup.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F9BB611A1BC8FB1E000D3943"
+            BuildableName = "dropbox_mockup.app"
+            BlueprintName = "dropbox_mockup"
+            ReferencedContainer = "container:dropbox_mockup.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

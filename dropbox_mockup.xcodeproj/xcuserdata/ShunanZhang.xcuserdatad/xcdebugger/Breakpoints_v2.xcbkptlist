@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WelcomeViewController.swift"
+            timestampString = "466412587.26112"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "WelcomeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dropbox_mockup.WelcomeViewController.welcomeScrollView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIScrollView&gt;"
+                  moduleName = "dropbox_mockup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ShunanZhang/Documents/Learn/iOS_class/dropbox_mockup/WelcomeViewController.swift"
+                  timestampString = "466412480.847793"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dropbox_mockup.WelcomeViewController.welcomeScrollView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIScrollView&gt;"
+                  moduleName = "dropbox_mockup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ShunanZhang/Documents/Learn/iOS_class/dropbox_mockup/WelcomeViewController.swift"
+                  timestampString = "466412480.850843"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dropbox_mockup.WelcomeViewController.welcomeScrollView.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIScrollView&gt;"
+                  moduleName = "dropbox_mockup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ShunanZhang/Documents/Learn/iOS_class/dropbox_mockup/WelcomeViewController.swift"
+                  timestampString = "466412480.851163"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dropbox_mockup.WelcomeViewController.init (dropbox_mockup.WelcomeViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; dropbox_mockup.WelcomeViewController"
+                  moduleName = "dropbox_mockup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ShunanZhang/Documents/Learn/iOS_class/dropbox_mockup/WelcomeViewController.swift"
+                  timestampString = "466412480.851404"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dropbox_mockup.WelcomeViewController.init (dropbox_mockup.WelcomeViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;dropbox_mockup.WelcomeViewController&gt;"
+                  moduleName = "dropbox_mockup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ShunanZhang/Documents/Learn/iOS_class/dropbox_mockup/WelcomeViewController.swift"
+                  timestampString = "466412480.851642"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
